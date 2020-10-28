@@ -1,0 +1,118 @@
+body {
+    font-family: PingFangTC-Light, sans-serif;
+    font-size: 24px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container li {
+    margin-bottom: 24px;
+    line-height: 1.5;
+}
+
+.name {
+    font-size: 80px;
+    padding: 17px 0;
+    border-bottom: 1px solid #000;
+    margin-top: 30px;
+    line-height: 94px;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: 600;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #000;
+    margin-bottom: 16px;
+    line-height: 43px;
+}
+
+.title>span {
+    color: #A00404;
+    margin-left: 16px;
+}
+
+.bgc-blue {
+    background-color: #415165;
+    color: #fff;
+    padding: 24px 0 36px;
+}
+
+.bgc-blue .title {
+    padding-bottom: 8px;
+    border-bottom: 1px solid #fff;
+}
+
+.bgc-blue .title>span {
+    color: #fff;
+}
+
+.skills .container {
+    width: 996px;
+}
+
+.skills .title {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.skills ul {
+    position: relative;
+    left: 389px;
+}
+
+.skills li {
+    margin-bottom: 20px;
+}
+
+.workExperiences .experience {
+    font-size: 20px;
+    width: 55%;
+}
+
+.main-footer {
+    text-align: center;
+}
+
+.main-footer .title {
+    margin-bottom: 32px;
+}
+
+.main-footer li {
+    margin-bottom: 16px;
+}
+
+.main-footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.main-footer a:hover {
+    color: #ccc;
+}
+
+.link a {
+    font-size: 48px;
+    margin-right: 24px;
+}
+
+.mb-72 {
+    margin-bottom: 72px;
+}
+
+.mb-48 {
+    margin-bottom: 48px;
+}
+
+.mb-8 {
+    margin-bottom: 8px;
+}
+
+.border-left-blue {
+    padding-left: 24px;
+    border-left: 1px solid #96A9C4;
+    margin-left: 24px;
+}
